@@ -1,0 +1,37 @@
+// Export pages
+export '/primary/tarai/tarai_widget.dart' show TaraiWidget;
+export '/orai/or/or_widget.dart' show OrWidget;
+export '/pincommerce/sale/sale_widget.dart' show SaleWidget;
+export '/pincommerce/menufront/menufront_widget.dart' show MenufrontWidget;
+export '/pincommerce/menu/menu_widget.dart' show MenuWidget;
+export '/pincommerce/pin/pin/pin_widget.dart' show PinWidget;
+export '/pincommerce/pin/addstock/addstock_widget.dart' show AddstockWidget;
+export '/primary/authin/authin_widget.dart' show AuthinWidget;
+export '/primary/authcr/authcr_widget.dart' show AuthcrWidget;
+export '/primary/settings/settings_widget.dart' show SettingsWidget;
+export '/par/notionint/notionint_widget.dart' show NotionintWidget;
+export '/pincommerce/storefront/proddetails/proddetails_widget.dart'
+    show ProddetailsWidget;
+export '/pincommerce/storefront/cart/cart_widget.dart' show CartWidget;
+export '/a_i/an/an_widget.dart' show AnWidget;
+export '/pincommerce/storefront/stores/stores_widget.dart' show StoresWidget;
+export '/pincommerce/storefront/people/people_widget.dart' show PeopleWidget;
+export '/a_i/texts/texts_widget.dart' show TextsWidget;
+export '/pincommerce/pin/inventory/inventory_widget.dart' show InventoryWidget;
+export '/pincommerce/pin/item/item_widget.dart' show ItemWidget;
+export '/sync/s4items/s4items_widget.dart' show S4itemsWidget;
+export '/pathai/pathai/pathai_widget.dart' show PathaiWidget;
+export '/a_i/aa/aa_widget.dart' show AaWidget;
+export '/par/files/files_widget.dart' show FilesWidget;
+export '/primary/tar/tar_widget.dart' show TarWidget;
+export '/orai/orai/orai_widget.dart' show OraiWidget;
+export '/parai/usages/usages_widget.dart' show UsagesWidget;
+export '/parai/plans/plans_widget.dart' show PlansWidget;
+export '/pincommerce/pin/itemgroup/itemgroup_widget.dart' show ItemgroupWidget;
+export '/sync/s5par/s5par_widget.dart' show S5parWidget;
+export '/sync/s3ig/s3ig_widget.dart' show S3igWidget;
+export '/sync/s1a/s1a_widget.dart' show S1aWidget;
+export '/sync/s2tar/s2tar_widget.dart' show S2tarWidget;
+export '/pincommerce/pin/items/items_widget.dart' show ItemsWidget;
+export '/par/notionb/notionb_widget.dart' show NotionbWidget;
+export '/sync/s5par2/s5par2_widget.dart' show S5par2Widget;
